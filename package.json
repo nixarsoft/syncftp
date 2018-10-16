@@ -4,9 +4,9 @@
   "license": "SEE LICENSE IN LICENSE",
   "description": "Auto sync file and folders to ftp",
   "scripts": {
-    "start": "node sync.js"
+    "start": "node ftpsync.js"
   },
-  "main": "sync.js",
+  "main": "ftpsync.js",
   "keywords": [
     "ftp"
   ],
