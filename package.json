@@ -14,7 +14,7 @@
     "node": "~0.10.22"
   },
   "dependencies": {
-    "chokidar": "^2.0.2"
+    "chokidar": "^2.0.4"
   },
   "devDependencies": {}
 }
